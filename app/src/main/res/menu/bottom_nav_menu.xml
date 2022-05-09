@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home_fragment"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+
+    <item android:id="@+id/book_fragment"
+        android:title="Book"
+        android:icon="@drawable/ic_book"/>
+
+    <item android:id="@+id/empty_place_holder"
+        android:title=""/>
+
+    <item android:id="@+id/music_fragment"
+        android:title="Music"
+        android:icon="@drawable/ic_music"/>
+
+    <item android:id="@+id/weather_fragment"
+        android:title="Weather"
+        android:icon="@drawable/ic_weather"/>
+
+
+</menu>
